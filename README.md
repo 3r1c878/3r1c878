@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋,
+I'm currently starting my first GitHub project and am working on a chess engine using some basic AI.
 
 <!--
 **3r1c878/3r1c878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
